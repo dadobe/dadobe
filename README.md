@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript & HTML & Python & Slovak (AHOJ !!)
 - 👻 Recently starting in the world of ARDUINO
 - 💞️ I’m looking to collaborate on everything that makes me learn new things and improve myself
-- 📫 How to reach me dadobe@gmail.com
+- 📫 How to reach me dadobe20@gmail.com
 
 <!---
 dadobe/dadobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
