@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dadobe
-- 👀 I’m interested in Photography, Web Developing, Programming and self learning
-- 🌱 I’m currently learning JavaScript & HTML
+- 👀 I’m interested in Photography, Web Developing & Coding and self learning
+- 🌱 I’m currently learning JavaScript & HTML & Python
+- 👻 Recently starting in the world of ARDUINO
 - 💞️ I’m looking to collaborate on everything that makes me learn new things and improve myself
 - 📫 How to reach me dadobe@gmail.com
 
